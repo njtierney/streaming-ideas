@@ -2,6 +2,9 @@
 
 This is a repository to capture ideas for live streaming package review. 
 
+If you would like to submit your package for live review, please [submit an issue](https://github.com/njtierney/streaming-ideas/issues/new).
+
+
 ## Previous package review streams
 
 - 2024-01-21
